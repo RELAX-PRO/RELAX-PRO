@@ -13,7 +13,7 @@
 - 🎓 I’m a **student** and also **self-learning** because my IT university doesn’t always give me the depth I want.
 - 💼 I’m working in the real world (non-government job) while improving my programming skills.
 - 🎯 My long-term goal is to become a **Full Stack Developer** and **Mobile app Developer**.
-- 🤖 I’m currently focused on creating **open-source AI instructions** for **students and learners** that work with **ChatGPT** and **Google Gemini**.
+- 🤖 I’m currently focused on creating **open-source AI instructions** for **students and learners** that work with **ChatGPT** and **Google Gemini** and **any** ai  .
 - 🌱 I like learning by building real projects and sharing them as **open source**.
 
 ---
