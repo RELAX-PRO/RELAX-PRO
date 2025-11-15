@@ -13,7 +13,7 @@
 - 🎓 I’m a **student** and also **self-learning** because my IT university doesn’t always give me the depth I want.
 - 💼 I’m working in the real world (non-government job) while improving my programming skills.
 - 🎯 My long-term goal is to become a **Full Stack Developer** and **Mobile app Developer**.
-- 🤖 I’m currently focused on creating **open-source AI instructions** for **students and learners** that work with **ChatGPT** and **Google Gemini** and **any** ai  .
+- 🤖 I’m currently focused on creating **open-source AI instructions** for **students and learners** that work with **Google Gemini** and **any** ai  .
 - 🌱 I like learning by building real projects and sharing them as **open source**.
 
 ---
@@ -23,14 +23,11 @@
 I’m building and maintaining **AI instructions / prompts** designed to help **learners and students** get better, more structured help from AI models.
 
 > 🔁 Instead of everyone creating isolated prompts, I prefer that people:
-> - use the **shared GPT & Gemini** I created, so they always get the latest updates  
+> - use the **Gemini** I created, so they always get the latest updates  
 > - **collaborate and improve** the open-source project together  
 > - but of course, it’s **not mandatory** – just a friendly suggestion 🙂
 
 ### 🔗 Try it here
-
-- 🧩 **Up To Op – ChatGPT GPT:**  
-  https://chatgpt.com/g/g-6915c01a99c481918b1d3e90b85a49bb-up-to-op
 
 - 🌐 **Up To Op – Gemini:**  
   https://gemini.google.com/gem/1SYJwbSDhJRjByCL7-coMOI0RZl_cd3BK?usp=sharing
